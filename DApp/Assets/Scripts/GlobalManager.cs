@@ -2,13 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class GlobalManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        int a = 5;
-
-        Debug.Log("Hello ~");
+		
 	}
 	
 	// Update is called once per frame
